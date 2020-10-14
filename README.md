@@ -8,3 +8,4 @@ Express application using express generator.
 ```sh
 npm start
 ```
+- Launch browser at http://localhost:3000/
