@@ -1,10 +1,18 @@
 {
   "name": "myapp",
-  "version": "0.0.0",
+  "description": "Express application using express generator.",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarepeN/myapp.git"
+  },
+  "author": "Nithya Karepe",
+  "license": "ISC",
+  "homepage": "https://github.com/KarepeN/myapp#readme",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
